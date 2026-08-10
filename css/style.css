@@ -455,7 +455,7 @@ p {
 .ingresso-card__preco {
   font-family: var(--fonte-display);
   font-size: 2rem;
-  color: var(--cor-vermelhao);
+  color: var(--cor-preto);
   margin: 0.2em 0;
 }
 
@@ -519,12 +519,6 @@ address {
 
 .secao--escura + .secao {
   padding-top: 6rem;
-}
-
-.secao__intro::first-letter {
-  font-family: var(--fonte-display);
-  font-size: 1.5em;
-  color: var(--cor-vermelhao);
 }
 
 @media (max-width: 1024px) {
